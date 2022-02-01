@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="somme">SOMME</string>
+    <string name="tv_somme">0</string>
+</resources>
